@@ -1,0 +1,13 @@
+🛤️ Full Plan for Your Naruto Quiz Project:
+
+Step	What We'll Do	Tools/Tech
+1	Set up project folders	Basic
+2	Install Spring Boot backend	Java + Spring Boot
+3	Create MySQL database & table for quiz questions	MySQL
+4	Connect Spring Boot with MySQL	JPA/Hibernate
+5	Create APIs (fetch questions, submit answers, track score)	REST APIs
+6	Install Node.js and Create React App	React.js
+7	Build Frontend: Beautiful Naruto-themed quiz UI	React, TailwindCSS
+8	Connect Frontend to Backend	Fetch API
+9	Test everything	Postman, Browser
+10	Host your project on GitHub & maybe even deploy online (bonus)	GitHub, Render/Netlify
